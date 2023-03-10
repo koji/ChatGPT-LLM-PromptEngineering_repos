@@ -20,6 +20,8 @@ https://github.com/0xk1h0/ChatGPT_DAN
 
 https://github.com/promptslab/Awesome-Prompt-Engineering
 
+https://github.com/yokoffing/ChatGPT-Prompts
+
 
 ## Others
 https://github.com/hpcaitech/ColossalAI
