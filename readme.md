@@ -9,13 +9,13 @@ https://github.com/karpathy/nanoGPT
 
 https://github.com/ayaka14732/ChatGPTAPIFree
 
-## application
+## Application
 https://github.com/Nutlope/roomGPT
 
 https://github.com/ztjhz/ChatGPTFreeApp
 
 
-## prompt engineering
+## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
 
 https://github.com/0xk1h0/ChatGPT_DAN
