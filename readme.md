@@ -1,1 +1,23 @@
 # ChatGPT repos
+
+## ChatGPT
+https://github.com/acheong08/ChatGPT
+
+https://github.com/f/awesome-chatgpt-prompts
+
+https://github.com/karpathy/nanoGPT
+
+https://github.com/ayaka14732/ChatGPTAPIFree
+
+## application
+https://github.com/Nutlope/roomGPT
+
+https://github.com/ztjhz/ChatGPTFreeApp
+
+
+## prompt engineering
+https://github.com/dair-ai/Prompt-Engineering-Guide
+
+https://github.com/0xk1h0/ChatGPT_DAN
+
+https://github.com/promptslab/Awesome-Prompt-Engineering
