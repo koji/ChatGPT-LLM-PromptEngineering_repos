@@ -12,9 +12,6 @@ https://github.com/Nutlope/roomGPT
 
 https://github.com/ztjhz/ChatGPTFreeApp
 
-https://www.gptoverflow.link/
-
-https://flowgpt.com/prompts
 
 ## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
