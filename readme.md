@@ -51,6 +51,15 @@ https://github.com/yokoffing/ChatGPT-Prompts
 
 ## Others
 
+#### LangChain
+Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.  
+
+https://github.com/hwchase17/langchain
+
+#### FlexGen
+FlexGen is a high-throughput generation engine for running large language models with limited GPU memory.  
+https://github.com/FMInference/FlexGen
+
 #### ColossalAI
 https://github.com/hpcaitech/ColossalAI
 
