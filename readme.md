@@ -16,6 +16,8 @@ https://github.com/microsoft/visual-chatgpt
 
 https://github.com/mukulpatnaik/researchgpt
 
+https://github.com/keijiro/AIShader
+
 
 ## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
