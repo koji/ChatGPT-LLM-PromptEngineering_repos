@@ -7,7 +7,7 @@ https://github.com/f/awesome-chatgpt-prompts
 
 https://github.com/ayaka14732/ChatGPTAPIFree
 
-## Application
+## Application with ChatGPT API
 This project generates new designs of your room with AI.  
 https://github.com/Nutlope/roomGPT
 
