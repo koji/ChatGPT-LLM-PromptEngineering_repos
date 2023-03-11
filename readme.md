@@ -14,6 +14,8 @@ https://github.com/ztjhz/ChatGPTFreeApp
 
 https://github.com/microsoft/visual-chatgpt
 
+https://github.com/mukulpatnaik/researchgpt
+
 
 ## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
