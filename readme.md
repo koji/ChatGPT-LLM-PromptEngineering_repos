@@ -12,6 +12,8 @@ https://github.com/Nutlope/roomGPT
 
 https://github.com/ztjhz/ChatGPTFreeApp
 
+https://github.com/microsoft/visual-chatgpt
+
 
 ## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
