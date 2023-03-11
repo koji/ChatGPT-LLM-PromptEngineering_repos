@@ -1,4 +1,4 @@
-# ChatGPT repos
+# 💻 ChatGPT repos
 
 ## ChatGPT
 https://github.com/acheong08/ChatGPT
