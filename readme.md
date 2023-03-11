@@ -21,6 +21,8 @@ https://github.com/mukulpatnaik/researchgpt
 This is a proof-of-concept implementation of a ChatGPT-powered shader generator for Unity.  
 https://github.com/keijiro/AIShader
 
+It is an unofficial project intended for personal learning and research purposes only. During the time that the ChatGPT desktop application was open-sourced.  
+https://github.com/lencx/ChatGPT
 
 ## Prompt Engineering
 https://github.com/dair-ai/Prompt-Engineering-Guide
