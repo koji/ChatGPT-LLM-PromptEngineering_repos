@@ -51,8 +51,13 @@ ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍
 https://github.com/benf2004/ChatGPT-Prompt-Genius
 
 #### ChatHub
-ChatHub is an all-in-one chatbot client. 
+ChatHub is an all-in-one chatbot client.   
 https://github.com/chathub-dev/chathub
+
+#### WebChatGPT
+This browser extension adds web access capability to ChatGPT. Get much more relevant and up-to-date answers from the chatbot!  
+https://github.com/qunash/chatgpt-advanced
+
 
 ## Prompt Engineering
 #### Prompt Engineering Guide
