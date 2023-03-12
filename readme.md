@@ -48,6 +48,10 @@ https://github.com/promptslab/Awesome-Prompt-Engineering
 #### ChatGPT Prompts
 https://github.com/yokoffing/ChatGPT-Prompts
 
+#### ChatGPT Prompt Genius
+ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍 discover, share, import, and use the best prompts for ChatGPT. You can also 💾 save your chat history locally so you can easily review past conversations and refer to them at a later time.  
+https://github.com/benf2004/ChatGPT-Prompt-Genius
+
 
 ## Others
 
