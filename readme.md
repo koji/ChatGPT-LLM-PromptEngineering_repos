@@ -2,6 +2,10 @@
 
 ## ChatGPT
 
+#### ChatGPT API (Free)
+Node.js client for the official ChatGPT API.  
+https://github.com/transitive-bullshit/chatgpt-api
+
 #### ChatGPT
 https://github.com/acheong08/ChatGPT
 
