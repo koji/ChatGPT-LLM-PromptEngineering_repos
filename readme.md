@@ -41,6 +41,11 @@ https://github.com/keijiro/AIShader
 It is an unofficial project intended for personal learning and research purposes only. During the time that the ChatGPT desktop application was open-sourced.  
 https://github.com/lencx/ChatGPT
 
+#### ChatGPT-bot(telegram)
+Go CLI to fuels a Telegram bot that lets you interact with ChatGPT, a large language model trained by OpenAI.  
+https://github.com/m1guelpf/chatgpt-telegram
+
+
 #### ChatGPT Prompt Genius
 ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍 discover, share, import, and use the best prompts for ChatGPT. You can also 💾 save your chat history locally so you can easily review past conversations and refer to them at a later time.  
 https://github.com/benf2004/ChatGPT-Prompt-Genius
