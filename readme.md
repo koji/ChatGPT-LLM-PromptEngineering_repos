@@ -5,11 +5,13 @@
 #### ChatGPT
 https://github.com/acheong08/ChatGPT
 
+
 #### Awesome ChatGpt Prompts
 https://github.com/f/awesome-chatgpt-prompts
 
 #### ChatGPTAPIFree
 https://github.com/ayaka14732/ChatGPTAPIFree
+
 
 ## Application with ChatGPT API
 
@@ -35,6 +37,10 @@ https://github.com/keijiro/AIShader
 It is an unofficial project intended for personal learning and research purposes only. During the time that the ChatGPT desktop application was open-sourced.  
 https://github.com/lencx/ChatGPT
 
+#### ChatGPT Prompt Genius
+ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍 discover, share, import, and use the best prompts for ChatGPT. You can also 💾 save your chat history locally so you can easily review past conversations and refer to them at a later time.  
+https://github.com/benf2004/ChatGPT-Prompt-Genius
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -48,10 +54,9 @@ https://github.com/promptslab/Awesome-Prompt-Engineering
 #### ChatGPT Prompts
 https://github.com/yokoffing/ChatGPT-Prompts
 
-#### ChatGPT Prompt Genius
-ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍 discover, share, import, and use the best prompts for ChatGPT. You can also 💾 save your chat history locally so you can easily review past conversations and refer to them at a later time.  
-https://github.com/benf2004/ChatGPT-Prompt-Genius
-
+#### ChatGPT Prompts for Data Science!
+The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.  
+https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
 
 ## Others
 
