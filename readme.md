@@ -45,6 +45,10 @@ https://github.com/lencx/ChatGPT
 ChatGPT Prompt Genius, a free, open-source browser extension that helps you 🔍 discover, share, import, and use the best prompts for ChatGPT. You can also 💾 save your chat history locally so you can easily review past conversations and refer to them at a later time.  
 https://github.com/benf2004/ChatGPT-Prompt-Genius
 
+#### ChatHub
+ChatHub is an all-in-one chatbot client. 
+https://github.com/chathub-dev/chathub
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
