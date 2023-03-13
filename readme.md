@@ -79,9 +79,8 @@ https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
 #### Prompts
 https://prompts.chat/
 
-#### steamship
-Build and deploy Prompt APIs in seconds.  
-https://www.steamship.com/build/prompt-apis
+#### ChatGPT & Bing AI Prompts
+https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts
 
 ## LLM
 #### LLaMA
