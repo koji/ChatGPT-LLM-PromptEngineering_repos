@@ -76,6 +76,13 @@ https://github.com/yokoffing/ChatGPT-Prompts
 The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.  
 https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
 
+#### Prompts
+https://prompts.chat/
+
+#### steamship
+Build and deploy Prompt APIs in seconds.  
+https://www.steamship.com/build/prompt-apis
+
 ## LLM
 #### LLaMA
 LLaMA is a LLM from Meta.  
