@@ -59,6 +59,10 @@ This browser extension adds web access capability to ChatGPT. Get much more rele
 https://github.com/qunash/chatgpt-advanced
 
 
+#### gpt-macro
+ChatGPT powered Rust proc macro that generates code at compile-time.  
+https://github.com/retrage/gpt-macro
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -106,3 +110,7 @@ https://github.com/hpcaitech/ColossalAI
 
 #### nanoGPT
 https://github.com/karpathy/nanoGPT
+
+#### Evals
+Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.  
+https://github.com/openai/evals
