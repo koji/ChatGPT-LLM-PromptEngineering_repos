@@ -17,6 +17,10 @@ https://github.com/f/awesome-chatgpt-prompts
 https://github.com/ayaka14732/ChatGPTAPIFree
 
 
+#### Bing Chat API
+This package is a Node.js wrapper around Bing Chat by Microsoft. TS batteries included.   
+https://github.com/transitive-bullshit/bing-chat
+
 ## Application with ChatGPT API
 
 #### roomGPT
