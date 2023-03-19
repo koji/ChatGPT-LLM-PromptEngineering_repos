@@ -100,6 +100,10 @@ https://palm-e.github.io/
 
 ## Others
 
+#### OpenAI Cookbook
+The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API
+https://github.com/openai/openai-cookbook
+
 #### LangChain
 Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.  
 
