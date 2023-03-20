@@ -122,3 +122,7 @@ https://github.com/karpathy/nanoGPT
 #### Evals
 Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.  
 https://github.com/openai/evals
+
+#### LangFlow
+A User Interface For LangChain  
+https://github.com/logspace-ai/langflow
