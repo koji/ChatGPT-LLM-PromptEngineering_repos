@@ -67,6 +67,10 @@ https://github.com/qunash/chatgpt-advanced
 ChatGPT powered Rust proc macro that generates code at compile-time.  
 https://github.com/retrage/gpt-macro
 
+#### ChatGeoPT
+A very basic, very brittle proof of concept for an AI assistant for geospatial search  
+https://github.com/earth-genome/ChatGeoPT
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
