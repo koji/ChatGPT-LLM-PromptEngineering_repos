@@ -9,6 +9,9 @@ https://github.com/transitive-bullshit/chatgpt-api
 #### ChatGPT
 https://github.com/acheong08/ChatGPT
 
+#### Awesome-GPT4-Prompts
+A collection of awesome GPT4 prompts.  
+https://github.com/ora-sh/Awesome-GPT4-Prompts
 
 #### Awesome ChatGpt Prompts
 https://github.com/f/awesome-chatgpt-prompts
