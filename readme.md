@@ -97,6 +97,10 @@ https://prompts.chat/
 #### ChatGPT & Bing AI Prompts
 https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts
 
+#### Learn Prompting
+This website is a free, open-source guide on prompt engineering.  
+https://github.com/trigaten/Learn_Prompting
+
 ## LLM
 #### LLaMA
 LLaMA is a LLM from Meta.  
