@@ -137,3 +137,7 @@ https://github.com/openai/evals
 #### LangFlow
 A User Interface For LangChain  
 https://github.com/logspace-ai/langflow
+
+#### FastChat
+An open platform for training, serving, and evaluating large language model based chatbots.  
+https://github.com/lm-sys/FastChat#fine-tuning
