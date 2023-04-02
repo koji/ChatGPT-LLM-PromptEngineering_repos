@@ -109,6 +109,12 @@ https://github.com/facebookresearch/llama
 #### PaLM-E
 https://palm-e.github.io/
 
+## Libraries
+
+#### LangChain.js
+Building applications with LLMs through composability 
+https://github.com/hwchase17/langchainjs
+
 ## Others
 
 #### OpenAI Cookbook
