@@ -1,4 +1,4 @@
-# 💻 ChatGPT repos
+# 💻 ChatGPT LLM PromptEngineering repos
 
 ## ChatGPT
 
