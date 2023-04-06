@@ -24,6 +24,8 @@ https://github.com/ayaka14732/ChatGPTAPIFree
 This package is a Node.js wrapper around Bing Chat by Microsoft. TS batteries included.  
 https://github.com/transitive-bullshit/bing-chat
 
+
+
 ## Application with ChatGPT API
 
 #### roomGPT
@@ -78,6 +80,10 @@ https://github.com/earth-genome/ChatGeoPT
 An experimental open-source attempt to make GPT-4 fully autonomous.   
 https://github.com/Torantulino/Auto-GPT
 
+#### ChatGPT Plugins Collection ⭐️ (unofficial)
+An unofficial collection of Plugins for ChatGPT, in any programming language! Note: This is not an official OpenAI or ChatGPT related repository.  
+https://github.com/logankilpatrick/ChatGPT-Plugins-Collection
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -114,11 +120,17 @@ https://github.com/facebookresearch/llama
 https://palm-e.github.io/
 
 
+
 ## Libraries
 
 #### LangChain.js
 Building applications with LLMs through composability  
 https://github.com/hwchase17/langchainjs
+
+#### Chatbot UI
+Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.  
+https://github.com/mckaywrigley/chatbot-ui
+
 
 
 ## Others
@@ -162,3 +174,11 @@ https://github.com/Muennighoff/sgpt
 #### GPT4All
 Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa  
 https://github.com/nomic-ai/gpt4all
+
+#### FastChat
+An open platform for training, serving, and evaluating large language model based chatbots.  
+https://github.com/lm-sys/FastChat
+
+#### openplayground
+An LLM playground you can run on your laptop  
+https://github.com/nat/openplayground
