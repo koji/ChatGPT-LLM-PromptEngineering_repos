@@ -131,6 +131,9 @@ https://github.com/hwchase17/langchainjs
 Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.  
 https://github.com/mckaywrigley/chatbot-ui
 
+#### LlamaIndex
+LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
+https://github.com/jerryjliu/llama_index
 
 
 ## Others
