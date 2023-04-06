@@ -102,7 +102,7 @@ https://prompts.chat/
 https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts
 
 #### Learn Prompting
-This website is a free, open-source guide on prompt engineering.
+This website is a free, open-source guide on prompt engineering.  
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
@@ -158,3 +158,8 @@ https://github.com/lm-sys/FastChat#fine-tuning
 #### SGPT
 SGPT: GPT Sentence Embeddings for Semantic Search  
 https://github.com/Muennighoff/sgpt
+
+
+#### GPT4All
+Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa  
+https://github.com/nomic-ai/gpt4all
