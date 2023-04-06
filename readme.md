@@ -119,7 +119,28 @@ https://github.com/facebookresearch/llama
 #### PaLM-E
 https://palm-e.github.io/
 
+#### Stanford Alpaca
+This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.  
+https://github.com/tatsu-lab/stanford_alpaca
 
+#### ChatGLM-6B
+An Open Bilingual Dialogue Language Model  
+https://github.com/THUDM/ChatGLM-6B
+
+#### OpenFlamingo
+https://github.com/mlfoundations/open_flamingo
+
+#### Guanaco
+https://guanaco-model.github.io/
+
+#### Alpaca-LoRA
+https://github.com/tloen/alpaca-lora
+
+#### NVIDIA NeMo
+https://github.com/NVIDIA/NeMo
+
+#### The RWKV Language Model
+https://github.com/BlinkDL/RWKV-LM
 
 ## Libraries
 
