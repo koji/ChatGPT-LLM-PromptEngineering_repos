@@ -28,6 +28,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 ## Application with ChatGPT API
 
+#### Taxy
+Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.  
+https://github.com/TaxyAI/browser-extension
+
 #### roomGPT
 This project generates new designs of your room with AI.  
 https://github.com/Nutlope/roomGPT
@@ -156,6 +160,9 @@ https://github.com/mckaywrigley/chatbot-ui
 LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
 https://github.com/jerryjliu/llama_index
 
+#### OpenChatKit
+OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.   
+https://github.com/togethercomputer/OpenChatKit
 
 ## Others
 
