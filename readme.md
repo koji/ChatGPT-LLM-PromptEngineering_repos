@@ -91,6 +91,13 @@ https://github.com/Torantulino/Auto-GPT
 An unofficial collection of Plugins for ChatGPT, in any programming language! Note: This is not an official OpenAI or ChatGPT related repository.  
 https://github.com/logankilpatrick/ChatGPT-Plugins-Collection
 
+#### babyagi
+This Python script is an example of an AI-powered task management system. The system uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks. The main idea behind this system is that it creates tasks based on the result of previous tasks and a predefined objective. The script then uses OpenAI's natural language processing (NLP) capabilities to create new tasks based on the objective, and Pinecone to store and retrieve task results for context. This is a pared-down version of the original Task-Driven Autonomous Agent.  
+https://github.com/yoheinakajima/babyagi
+
+#### babyagi-streamlit
+https://github.com/dory111111/babyagi-streamlit
+
 ## Prompt Engineering
 #### Prompt Engineering Guide
 https://github.com/dair-ai/Prompt-Engineering-Guide
