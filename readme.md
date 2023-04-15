@@ -31,6 +31,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 ## Application with ChatGPT API
 
+#### CAMEL
+Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. 
+https://github.com/lightaime/camel
+
 #### Taxy
 Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.  
 https://github.com/TaxyAI/browser-extension
