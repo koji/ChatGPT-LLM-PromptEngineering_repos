@@ -156,6 +156,10 @@ https://github.com/NVIDIA/NeMo
 #### The RWKV Language Model
 https://github.com/BlinkDL/RWKV-LM
 
+#### Dolly
+Databricks’ Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.   
+https://github.com/databrickslabs/dolly
+
 ## Libraries
 
 #### LangChain.js
