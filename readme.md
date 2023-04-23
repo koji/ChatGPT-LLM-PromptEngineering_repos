@@ -138,6 +138,11 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+
+#### StableLM
+This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.   
+https://github.com/stability-AI/stableLM/
+
 #### LLaMA
 LLaMA is a LLM from Meta.  
 https://github.com/facebookresearch/llama
