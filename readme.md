@@ -206,6 +206,11 @@ ShareGPT is an open-source Chrome Extension for you to share your wildest ChatGP
 https://github.com/domeccleston/sharegpt
 
 ## Others
+
+#### Open-Assistant
+Open Assistant is a project meant to give everyone access to a great chat based large language model.  
+https://github.com/LAION-AI/Open-Assistant
+
 #### OpenAI Cookbook
 The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API  
 https://github.com/openai/openai-cookbook
