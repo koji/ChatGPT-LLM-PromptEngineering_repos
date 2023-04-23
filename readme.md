@@ -188,8 +188,11 @@ https://github.com/togethercomputer/OpenChatKit
 gpt-repository-loader is a command-line tool that converts the contents of a Git repository into a text format, preserving the structure of the files and file contents.   
 https://github.com/mpoon/gpt-repository-loader
 
-## Others
+#### ShareGPT
+ShareGPT is an open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.  
+https://github.com/domeccleston/sharegpt
 
+## Others
 #### OpenAI Cookbook
 The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API  
 https://github.com/openai/openai-cookbook
@@ -238,10 +241,6 @@ https://github.com/lm-sys/FastChat
 An LLM playground you can run on your laptop  
 https://github.com/nat/openplayground
 
-#### Auto-GPT: An Autonomous GPT-4 Experiment
-Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, autonomously develops and manages businesses to increase net worth. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.  
-https://github.com/Torantulino/Auto-GPT
 
-#### ShareGPT
-ShareGPT is an open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.  
-https://github.com/domeccleston/sharegpt
+#### Japanese-Alpaca-LoRA
+https://github.com/kunishou/Japanese-Alpaca-LoRA
