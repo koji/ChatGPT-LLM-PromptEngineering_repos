@@ -30,6 +30,9 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+#### MiniGPT-4
+Enhancing Vision-language Understanding with Advanced Large Language Models  
+https://github.com/Vision-CAIR/MiniGPT-4
 
 #### CAMEL
 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. 
