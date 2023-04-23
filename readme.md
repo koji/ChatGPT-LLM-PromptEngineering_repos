@@ -30,6 +30,11 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+
+#### GPT Deploy
+Turn your natural language descriptions into fully functional, deployed AI-powered microservices with a single command! Your imagination is the limit!  
+https://github.com/jina-ai/gptdeploy
+
 #### MiniGPT-4
 Enhancing Vision-language Understanding with Advanced Large Language Models  
 https://github.com/Vision-CAIR/MiniGPT-4
