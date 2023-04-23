@@ -182,6 +182,12 @@ https://github.com/jerryjliu/llama_index
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.   
 https://github.com/togethercomputer/OpenChatKit
 
+
+## Tools
+#### gpt-repository-loader
+gpt-repository-loader is a command-line tool that converts the contents of a Git repository into a text format, preserving the structure of the files and file contents.   
+https://github.com/mpoon/gpt-repository-loader
+
 ## Others
 
 #### OpenAI Cookbook
