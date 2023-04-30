@@ -207,6 +207,10 @@ https://github.com/domeccleston/sharegpt
 
 ## Others
 
+#### DataFit
+ChatGPT Prompts Community  
+https://datafit.ai/
+
 #### Alpaca Electron
 Alpaca Electron is built from the ground-up to be the easiest way to chat with the alpaca AI models. No command line or compiling needed!  
 https://github.com/ItsPi3141/alpaca-electron
