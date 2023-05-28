@@ -206,6 +206,9 @@ ShareGPT is an open-source Chrome Extension for you to share your wildest ChatGP
 https://github.com/domeccleston/sharegpt
 
 ## Others
+#### Guidance
+Guidance enables you to control modern language models more effectively and efficiently than traditional prompting or chaining.  
+https://github.com/microsoft/guidance
 
 #### DataFit
 ChatGPT Prompts Community  
