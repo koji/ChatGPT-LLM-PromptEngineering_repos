@@ -195,6 +195,10 @@ https://github.com/jerryjliu/llama_index
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.   
 https://github.com/togethercomputer/OpenChatKit
 
+## Desktop app
+#### BingGPT
+Desktop application of new Bing's AI-powered chatDesktop application of new Bing's AI-powered chatDesktop application of new Bing's AI-powered chat  
+https://github.com/dice2o/BingGPT
 
 ## Tools
 #### gpt-repository-loader
