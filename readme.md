@@ -138,6 +138,9 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### Falcon LLM
+Technology Innovation Institute has open-sourced Falcon LLM for research and commercial utilization.  
+https://falconllm.tii.ae/
 
 #### StableLM
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.   
