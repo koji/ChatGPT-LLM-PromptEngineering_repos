@@ -142,6 +142,9 @@ https://github.com/trigaten/Learn_Prompting
 Technology Innovation Institute has open-sourced Falcon LLM for research and commercial utilization.  
 https://falconllm.tii.ae/
 
+#### MPT-7B
+https://www.mosaicml.com/blog/mpt-7b
+
 #### StableLM
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.   
 https://github.com/stability-AI/stableLM/
