@@ -201,6 +201,10 @@ https://github.com/jerryjliu/llama_index
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.   
 https://github.com/togethercomputer/OpenChatKit
 
+#### Vercel AI SDK
+The Vercel AI SDK is a library for building edge-ready AI-powered streaming text and chat UIs.  
+https://github.com/vercel-labs/ai
+
 ## Desktop app
 #### BingGPT
 Desktop application of new Bing's AI-powered chatDesktop application of new Bing's AI-powered chatDesktop application of new Bing's AI-powered chat  
