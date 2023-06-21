@@ -31,6 +31,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 ## Application with ChatGPT API
 
+#### GPT Engineer
+GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  
+https://github.com/AntonOsika/gpt-engineer
+
 #### GPT Deploy
 Turn your natural language descriptions into fully functional, deployed AI-powered microservices with a single command! Your imagination is the limit!  
 https://github.com/jina-ai/gptdeploy
