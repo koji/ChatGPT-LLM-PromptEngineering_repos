@@ -189,6 +189,10 @@ https://github.com/databrickslabs/dolly
 
 ## Libraries
 
+#### ai-utils.js
+TypeScript-first library for building AI apps, chatbots, and agents.  
+https://github.com/lgrammel/ai-utils.js
+
 #### LangChain.js
 Building applications with LLMs through composability  
 https://github.com/hwchase17/langchainjs
