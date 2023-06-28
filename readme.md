@@ -142,6 +142,10 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### Gorilla
+Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke.   
+https://github.com/ShishirPatil/gorilla
+
 #### Falcon LLM
 Technology Innovation Institute has open-sourced Falcon LLM for research and commercial utilization.  
 https://falconllm.tii.ae/
