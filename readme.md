@@ -30,6 +30,9 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+#### gpt-author
+A 15-chapter novel can cost as little as $4 to produce and is written in just a few minutes.  
+https://github.com/mshumer/gpt-author
 
 #### GPT Engineer
 GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  
