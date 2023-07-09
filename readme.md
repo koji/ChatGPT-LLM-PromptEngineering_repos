@@ -145,6 +145,10 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### InternLM
+InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.  
+https://github.com/InternLM/InternLM
+
 #### Gorilla
 Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke.   
 https://github.com/ShishirPatil/gorilla
