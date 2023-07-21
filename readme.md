@@ -199,7 +199,9 @@ Databricks’ Dolly is an instruction-following large language model trained on 
 https://github.com/databrickslabs/dolly
 
 ## Libraries
-
+####  LLM Engine 
+The open source engine for fine-tuning and serving large language models.   
+https://github.com/scaleapi/llm-engine
 #### ai-utils.js
 TypeScript-first library for building AI apps, chatbots, and agents.  
 https://github.com/lgrammel/ai-utils.js
