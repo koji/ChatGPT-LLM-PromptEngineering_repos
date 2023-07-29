@@ -145,6 +145,14 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### FreeWilly2
+https://huggingface.co/stabilityai/StableBeluga2
+
+
+#### LLaMA2
+The next generation of our open-source large language model  
+https://ai.meta.com/llama/
+
 #### InternLM
 InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.  
 https://github.com/InternLM/InternLM
