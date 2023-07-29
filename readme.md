@@ -207,6 +207,10 @@ Databricks’ Dolly is an instruction-following large language model trained on 
 https://github.com/databrickslabs/dolly
 
 ## Libraries
+#### LangChain
+Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.  
+https://github.com/hwchase17/langchain
+
 ####  LLM Engine 
 The open source engine for fine-tuning and serving large language models.   
 https://github.com/scaleapi/llm-engine
@@ -240,6 +244,10 @@ Desktop application of new Bing's AI-powered chatDesktop application of new Bing
 https://github.com/dice2o/BingGPT
 
 ## Tools
+#### LangSmith
+LangSmith lets you export data to common formats such as CSV or JSONL directly in the web app.   
+https://smith.langchain.com/
+
 #### gpt-repository-loader
 gpt-repository-loader is a command-line tool that converts the contents of a Git repository into a text format, preserving the structure of the files and file contents.   
 https://github.com/mpoon/gpt-repository-loader
@@ -249,6 +257,10 @@ ShareGPT is an open-source Chrome Extension for you to share your wildest ChatGP
 https://github.com/domeccleston/sharegpt
 
 ## Others
+#### LLM-Reading-List
+LLM papers I'm reading, mostly on inference and model compression  
+https://github.com/evanmiller/LLM-Reading-List
+
 #### Guidance
 Guidance enables you to control modern language models more effectively and efficiently than traditional prompting or chaining.  
 https://github.com/microsoft/guidance
@@ -268,10 +280,6 @@ https://github.com/LAION-AI/Open-Assistant
 #### OpenAI Cookbook
 The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API  
 https://github.com/openai/openai-cookbook
-
-#### LangChain
-Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.  
-https://github.com/hwchase17/langchain
 
 #### FlexGen
 FlexGen is a high-throughput generation engine for running large language models with limited GPU memory.  
