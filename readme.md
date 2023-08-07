@@ -244,6 +244,10 @@ Desktop application of new Bing's AI-powered chatDesktop application of new Bing
 https://github.com/dice2o/BingGPT
 
 ## Tools
+#### Ollama
+Get up and running with Llama 2 and other large language models locally  
+https://github.com/jmorganca/ollama
+
 #### LangSmith
 LangSmith lets you export data to common formats such as CSV or JSONL directly in the web app.   
 https://smith.langchain.com/
