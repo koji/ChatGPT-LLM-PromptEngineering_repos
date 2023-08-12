@@ -30,7 +30,11 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
-### MetaGPT
+#### ViLT-GPT
+ViLT-GPT is an innovative application that gives the conversational AI ChatGPT the ability to "see". By integrating OpenAI's Language Models (LLM) and LangChain with Vision-and-Language models, this app can answer queries based on the content of images. Now, you can interact with your images, ask questions and get informative responses.  
+https://github.com/CodeAlchemyAI/ViLT-GPT
+
+#### MetaGPT
 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo  
 https://github.com/geekan/MetaGPT
 
