@@ -30,6 +30,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+#### Open Interpreter
+Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.  
+https://github.com/KillianLucas/open-interpreter
+
 #### ViLT-GPT
 ViLT-GPT is an innovative application that gives the conversational AI ChatGPT the ability to "see". By integrating OpenAI's Language Models (LLM) and LangChain with Vision-and-Language models, this app can answer queries based on the content of images. Now, you can interact with your images, ask questions and get informative responses.  
 https://github.com/CodeAlchemyAI/ViLT-GPT
