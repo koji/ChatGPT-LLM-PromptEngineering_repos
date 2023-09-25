@@ -219,6 +219,10 @@ Databricks’ Dolly is an instruction-following large language model trained on 
 https://github.com/databrickslabs/dolly
 
 ## Libraries
+#### kani (カニ)
+kani (カニ) is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling.
+https://github.com/zhudotexe/kani
+
 #### LangChain
 Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.  
 https://github.com/hwchase17/langchain
