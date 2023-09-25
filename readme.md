@@ -220,7 +220,7 @@ https://github.com/databrickslabs/dolly
 
 ## Libraries
 #### kani (カニ)
-kani (カニ) is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling.
+kani (カニ) is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling.  
 https://github.com/zhudotexe/kani
 
 #### LangChain
