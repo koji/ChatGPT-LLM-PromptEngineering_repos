@@ -219,6 +219,10 @@ Databricks’ Dolly is an instruction-following large language model trained on 
 https://github.com/databrickslabs/dolly
 
 ## Libraries
+#### Agents
+An Open-source Framework for Autonomous Language Agents  
+https://github.com/aiwaves-cn/agents
+
 #### kani (カニ)
 kani (カニ) is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling.  
 https://github.com/zhudotexe/kani
