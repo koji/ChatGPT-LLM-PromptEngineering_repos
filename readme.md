@@ -30,6 +30,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+#### DocsGPT
+DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.  
+https://github.com/arc53/DocsGPT
+
 #### Open Interpreter
 Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.  
 https://github.com/KillianLucas/open-interpreter
