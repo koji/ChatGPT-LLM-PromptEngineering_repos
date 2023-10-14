@@ -161,6 +161,11 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### LLaVA
+Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.  
+https://github.com/haotian-liu/LLaVA
+
+
 #### FreeWilly2
 https://huggingface.co/stabilityai/StableBeluga2
 
