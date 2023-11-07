@@ -228,6 +228,11 @@ Databricks’ Dolly is an instruction-following large language model trained on 
 https://github.com/databrickslabs/dolly
 
 ## Libraries
+
+#### autollm
+Ship RAG based LLM web apps in seconds.  
+https://github.com/safevideo/autollm
+
 #### Agents
 An Open-source Framework for Autonomous Language Agents  
 https://github.com/aiwaves-cn/agents
