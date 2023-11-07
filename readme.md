@@ -30,6 +30,10 @@ https://github.com/transitive-bullshit/bing-chat
 
 
 ## Application with ChatGPT API
+#### Danswer
+Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.  
+https://github.com/danswer-ai/danswer
+
 #### DocsGPT
 DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.  
 https://github.com/arc53/DocsGPT
