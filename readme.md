@@ -169,7 +169,6 @@ https://github.com/trigaten/Learn_Prompting
 This model is a fine-tuned model based on mistralai/Mistral-7B-v0.1 on the open source dataset Open-Orca/SlimOrca. Then we align it with DPO algorithm.   
 https://huggingface.co/Intel/neural-chat-7b-v3-1
 
-
 #### Mistral 7B
 Mistral 7B v0.1 is Mistral AI's first Large Language Model (LLM). A Large Language Model (LLM) is an artificial intelligence algorithm trained on massive amounts of data that is able to generate coherent text and perform various natural language processing tasks.  
 https://docs.mistral.ai/
