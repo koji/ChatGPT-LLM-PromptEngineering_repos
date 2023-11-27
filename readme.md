@@ -165,6 +165,15 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### Intel/neural-chat-7b-v3-1
+This model is a fine-tuned model based on mistralai/Mistral-7B-v0.1 on the open source dataset Open-Orca/SlimOrca. Then we align it with DPO algorithm.   
+https://huggingface.co/Intel/neural-chat-7b-v3-1
+
+
+#### Mistral 7B
+Mistral 7B v0.1 is Mistral AI's first Large Language Model (LLM). A Large Language Model (LLM) is an artificial intelligence algorithm trained on massive amounts of data that is able to generate coherent text and perform various natural language processing tasks.  
+https://docs.mistral.ai/
+
 #### LLaVA
 Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.  
 https://github.com/haotian-liu/LLaVA
