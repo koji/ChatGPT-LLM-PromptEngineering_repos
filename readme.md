@@ -241,6 +241,10 @@ https://github.com/databrickslabs/dolly
 
 ## Libraries
 
+#### bard-ai
+A lightweight library to access Google Bard.  
+https://github.com/EvanZhouDev/bard-ai
+
 #### autollm
 Ship RAG based LLM web apps in seconds.  
 https://github.com/safevideo/autollm
