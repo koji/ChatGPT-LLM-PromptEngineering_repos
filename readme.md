@@ -165,9 +165,18 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+#### code llama
+Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer.  
+https://huggingface.co/codellama  
+
+#### dolphin-2.2.1-mistral-7b
+This model is based on mistralAI, with apache-2.0 license, so it is suitable for commercial or non-commercial use.  
+New in 2.2 is conversation and empathy. With an infusion of curated Samantha DNA, Dolphin can now give you personal advice and will care about your feelings, and with extra training in long multi-turn conversation.  
+https://huggingface.co/cognitivecomputations/dolphin-2.2.1-mistral-7b  
+
 #### Intel/neural-chat-7b-v3-1
 This model is a fine-tuned model based on mistralai/Mistral-7B-v0.1 on the open source dataset Open-Orca/SlimOrca. Then we align it with DPO algorithm.   
-https://huggingface.co/Intel/neural-chat-7b-v3-1
+https://huggingface.co/Intel/neural-chat-7b-v3-1  
 
 #### Mistral 7B
 Mistral 7B v0.1 is Mistral AI's first Large Language Model (LLM). A Large Language Model (LLM) is an artificial intelligence algorithm trained on massive amounts of data that is able to generate coherent text and perform various natural language processing tasks.  
