@@ -165,6 +165,11 @@ This website is a free, open-source guide on prompt engineering.
 https://github.com/trigaten/Learn_Prompting
 
 ## LLM
+
+#### Llama3
+Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks. Further, in developing these models, we took great care to optimize helpfulness and safety.  
+https://llama.meta.com/llama3/
+
 #### code llama
 Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer.  
 https://huggingface.co/codellama  
