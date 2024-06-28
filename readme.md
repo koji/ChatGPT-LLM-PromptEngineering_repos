@@ -166,6 +166,10 @@ https://github.com/trigaten/Learn_Prompting
 
 ## LLM
 
+### DeepSeek-V2
+DeepSeek-V2 delivers impressive results on current major large model leaderboards.  
+https://www.deepseek.com/  
+
 ### Falcon 2
 https://falconllm.tii.ae/
 
