@@ -315,6 +315,10 @@ Desktop application of new Bing's AI-powered chatDesktop application of new Bing
 https://github.com/dice2o/BingGPT
 
 ## Tools
+#### Perplexica
+Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI  
+https://github.com/ItzCrazyKns/Perplexica  
+
 #### Ollama
 Get up and running with Llama 2 and other large language models locally  
 https://github.com/jmorganca/ollama
