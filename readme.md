@@ -166,6 +166,10 @@ https://github.com/trigaten/Learn_Prompting
 
 ## LLM
 
+### phi-4
+phi-4 is a state-of-the-art open model built upon a blend of synthetic datasets, data from filtered public domain websites, and acquired academic books and Q&A datasets. The goal of this approach was to ensure that small capable models were trained with data focused on high quality and advanced reasoning.  
+https://huggingface.co/microsoft/phi-4
+
 ### DeepSeek-V2
 DeepSeek-V2 delivers impressive results on current major large model leaderboards.  
 https://www.deepseek.com/  
