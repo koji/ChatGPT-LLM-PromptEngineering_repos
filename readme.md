@@ -3,9 +3,20 @@
 
 # 💻 ChatGPT | LLM | PromptEngineering | Agents
 
+## Table of Contents
+- [ChatGPT and APIs](#chatgpt)
+- [Applications with ChatGPT API](#application-with-chatgpt-api)
+- [Prompt Engineering Resources](#prompt-engineering)
+- [Agents Framework](#agents-framework)
+- [Large Language Models (LLM)](#llm)
+- [Libraries and SDKs](#libraries)
+- [Desktop Applications](#desktop-app)
+- [Tools](#tools)
+- [Other Resources](#others)
+
 ## ChatGPT
 
-#### ChatGPT API (Free)
+### ChatGPT API (Free)
 
 Node.js client for the official ChatGPT API.  
 https://github.com/transitive-bullshit/chatgpt-api
