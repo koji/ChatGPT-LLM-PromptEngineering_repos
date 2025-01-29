@@ -215,47 +215,19 @@ https://github.com/trigaten/Learn_Prompting
 
 ## Agents Framework
 
-### AutoGen
+| Name | Description | URL |
+|------|-------------|-----|
+| AutoGen | AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans  | https://github.com/microsoft/autogen |
+| phidata | Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI   | https://github.com/phidatahq/phidata |
+| Swarm | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team  | https://github.com/openai/swarm |
+| crewAI | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks | https://github.com/crewAIInc/crewAI |
+| LangGraph | Build resilient language agents as graphs | https://github.com/langchain-ai/langgraph |
+| pydantic-ai | Agent Framework / shim to use Pydantic with LLMs  | https://github.com/pydantic/pydantic-ai |
+| DSPy | The framework for programming—not prompting—language models  | https://github.com/stanfordnlp/dspy |
+| smolagents | smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents   | https://github.com/huggingface/smolagents |
 
-AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.  
-https://github.com/microsoft/autogen
-
-### phidata
-
-Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.  
-https://github.com/phidatahq/phidata
-
-### Swarm
-
-Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.  
-https://github.com/openai/swarm
-
-### crewAI
-
-Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.  
-https://github.com/crewAIInc/crewAI
-
-### LangGraph
-
-Build resilient language agents as graphs.  
-https://github.com/langchain-ai/langgraph
-
-### pydantic-ai
-
-Agent Framework / shim to use Pydantic with LLMs  
-https://github.com/pydantic/pydantic-ai
-
-### DSPy
-
-DSPy: The framework for programming—not prompting—language models  
-https://github.com/stanfordnlp/dspy
-
-### smolagents
-smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.  
-https://github.com/huggingface/smolagents
 
 ### AI Agents Stack
-
 https://ai-agents-stack.netlify.app/
 
 ## LLM
