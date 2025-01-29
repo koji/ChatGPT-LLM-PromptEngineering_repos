@@ -227,6 +227,8 @@ https://github.com/trigaten/Learn_Prompting
 | DSPy        | The framework for programming—not prompting—language models                                                                                                                         | https://github.com/stanfordnlp/dspy       |
 | smolagents  | smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents                                                                     | https://github.com/huggingface/smolagents |
 | eliza       | eliza is a simple, fast, and lightweight AI agent framework                                                                                                                         | https://github.com/elizaOS/eliza          |
+| camel       | CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework.                                                                                                                         | https://github.com/camel-ai/camel          |
+| AutoGPT       | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.                                                                                                                         | https://github.com/Significant-Gravitas/AutoGPT          |
 
 ### AI Agents Stack
 
