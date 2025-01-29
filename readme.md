@@ -234,6 +234,15 @@ https://github.com/langchain-ai/langgraph
 Agent Framework / shim to use Pydantic with LLMs  
 https://github.com/pydantic/pydantic-ai
 
+### DSPy
+
+DSPy: The framework for programming—not prompting—language models  
+https://github.com/stanfordnlp/dspy
+
+### AI Agents Stack
+
+https://ai-agents-stack.netlify.app/
+
 ## LLM
 
 ### phi-4
