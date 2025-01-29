@@ -239,6 +239,10 @@ https://github.com/pydantic/pydantic-ai
 DSPy: The framework for programming—not prompting—language models  
 https://github.com/stanfordnlp/dspy
 
+### smolagents
+smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.  
+https://github.com/huggingface/smolagents
+
 ### AI Agents Stack
 
 https://ai-agents-stack.netlify.app/
