@@ -170,8 +170,9 @@ https://github.com/trigaten/Learn_Prompting
 phi-4 is a state-of-the-art open model built upon a blend of synthetic datasets, data from filtered public domain websites, and acquired academic books and Q&A datasets. The goal of this approach was to ensure that small capable models were trained with data focused on high quality and advanced reasoning.  
 https://huggingface.co/microsoft/phi-4
 
-### DeepSeek-V2
-DeepSeek-V2 delivers impressive results on current major large model leaderboards.  
+### DeepSeek-V3
+DeepSeek-V3 achieves a significant breakthrough in inference speed over previous models.  
+It tops the leaderboard among open-source models and rivals the most advanced closed-source models globally.  
 https://www.deepseek.com/  
 
 ### Falcon 2
