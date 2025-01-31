@@ -232,128 +232,36 @@ https://ai-agents-stack.netlify.app/
 
 ## LLM
 
-### phi-4
 
-phi-4 is a state-of-the-art open model built upon a blend of synthetic datasets, data from filtered public domain websites, and acquired academic books and Q&A datasets. The goal of this approach was to ensure that small capable models were trained with data focused on high quality and advanced reasoning.  
-https://huggingface.co/microsoft/phi-4
+| **Name**                     | **Key Features/Notes**                                                                                                                                                                                                 | **Source**                                                                 |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **phi-4**                    | Focused on high-quality data and advanced reasoning; blend of synthetic and curated datasets.                                                                                                                        | [Hugging Face](https://huggingface.co/microsoft/phi-4)                     |
+| **DeepSeek-V3**              | Breakthrough in inference speed; rivals top closed-source models.                                                                                                                                                     | [DeepSeek](https://www.deepseek.com/)                                      |
+| **Falcon 2**                 | Details unspecified (assumed part of Falcon LLM series).                                                                                                                                                              | [Falcon LLM](https://falconllm.tii.ae/)                                    |
+| **Llama3**                   | Pretrained and instruction-tuned 8B/70B models optimized for dialogue; emphasizes safety and performance.                                                                                                             | [Meta](https://llama.meta.com/llama3/)                                     |
+| **Code Llama**               | Code-specialized version of Llama 2; trained on code-specific datasets.                                                                                                                                               | [Hugging Face](https://huggingface.co/codellama)                           |
+| **dolphin-2.2.1-mistral-7b** | Apache-2.0 licensed; enhanced for empathy, personal advice, and multi-turn conversations.                                                                                                                             | [Hugging Face](https://huggingface.co/cognitivecomputations/dolphin-2.2.1-mistral-7b) |
+| **Intel/neural-chat-7b-v3-1**| Fine-tuned Mistral-7B using Open-Orca/SlimOrca data; aligned with DPO algorithm.                                                                                                                                       | [Hugging Face](https://huggingface.co/Intel/neural-chat-7b-v3-1)           |
+| **Mistral 7B**               | Mistral AI's first LLM; general-purpose natural language processing.                                                                                                                                                  | [Mistral Docs](https://docs.mistral.ai/)                                   |
+| **LLaVA**                    | Visual instruction tuning for vision-language models with GPT-4 capabilities.                                                                                                                                         | [GitHub](https://github.com/haotian-liu/LLaVA)                             |
+| **FreeWilly2**               | High-performing instruction-tuned model (details unspecified).                                                                                                                                                        | [Hugging Face](https://huggingface.co/stabilityai/StableBeluga2)           |
+| **LLaMA2**                   | Next-gen open-source LLM by Meta; optimized for dialogue and safety.                                                                                                                                                  | [Meta](https://ai.meta.com/llama/)                                         |
+| **InternLM**                 | Open-sourced 7B base and chat models for practical scenarios.                                                                                                                                                         | [GitHub](https://github.com/InternLM/InternLM)                             |
+| **Gorilla**                  | Enables LLMs to invoke APIs for tool usage.                                                                                                                                                                           | [GitHub](https://github.com/ShishirPatil/gorilla)                          |
+| **Falcon LLM**               | Open-sourced by Technology Innovation Institute for research/commercial use.                                                                                                                                          | [Falcon LLM](https://falconllm.tii.ae/)                                    |
+| **MPT-7B**                   | Efficient, commercially usable LLM by MosaicML.                                                                                                                                                                       | [MosaicML](https://www.mosaicml.com/blog/mpt-7b)                           |
+| **StableLM**                 | Stability AI's ongoing LLM series development.                                                                                                                                                                        | [GitHub](https://github.com/stability-AI/stableLM/)                        |
+| **LLaMA**                    | Meta's foundational LLM.                                                                                                                                                                                              | [GitHub](https://github.com/facebookresearch/llama)                        |
+| **PaLM-E**                   | Embodied multimodal language model (combines vision and language).                                                                                                                                                    | [Website](https://palm-e.github.io/)                                       |
+| **Stanford Alpaca**          | Instruction-following LLaMA model.                                                                                                                                                                                    | [GitHub](https://github.com/tatsu-lab/stanford_alpaca)                     |
+| **ChatGLM-6B**               | Open bilingual (EN/CN) dialogue model.                                                                                                                                                                                | [GitHub](https://github.com/THUDM/ChatGLM-6B)                              |
+| **OpenFlamingo**             | Framework for training multimodal LLMs.                                                                                                                                                                               | [GitHub](https://github.com/mlfoundations/open_flamingo)                   |
+| **Guanaco**                  | Details unspecified (assumed conversational model).                                                                                                                                                                   | [Website](https://guanaco-model.github.io/)                                |
+| **Alpaca-LoRA**              | Low-Rank Adaptation (LoRA) for training Alpaca-style models.                                                                                                                                                          | [GitHub](https://github.com/tloen/alpaca-lora)                             |
+| **NVIDIA NeMo**              | Toolkit for building and training conversational AI models.                                                                                                                                                           | [GitHub](https://github.com/NVIDIA/NeMo)                                   |
+| **RWKV Language Model**      | Alternative architecture for efficient long-context modeling.                                                                                                                                                         | [GitHub](https://github.com/BlinkDL/RWKV-LM)                               |
+| **Dolly**                    | Instruction-following LLM by Databricks; commercially licensed.                                                                                                                                                       | [GitHub](https://github.com/databrickslabs/dolly)                          |
 
-### DeepSeek-V3
-
-DeepSeek-V3 achieves a significant breakthrough in inference speed over previous models.  
-It tops the leaderboard among open-source models and rivals the most advanced closed-source models globally.  
-https://www.deepseek.com/
-
-### Falcon 2
-
-https://falconllm.tii.ae/
-
-### Llama3
-
-Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks. Further, in developing these models, we took great care to optimize helpfulness and safety.  
-https://llama.meta.com/llama3/
-
-### code llama
-
-Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer.  
-https://huggingface.co/codellama
-
-### dolphin-2.2.1-mistral-7b
-
-This model is based on mistralAI, with apache-2.0 license, so it is suitable for commercial or non-commercial use.  
-New in 2.2 is conversation and empathy. With an infusion of curated Samantha DNA, Dolphin can now give you personal advice and will care about your feelings, and with extra training in long multi-turn conversation.  
-https://huggingface.co/cognitivecomputations/dolphin-2.2.1-mistral-7b
-
-### Intel/neural-chat-7b-v3-1
-
-This model is a fine-tuned model based on mistralai/Mistral-7B-v0.1 on the open source dataset Open-Orca/SlimOrca. Then we align it with DPO algorithm.  
-https://huggingface.co/Intel/neural-chat-7b-v3-1
-
-### Mistral 7B
-
-Mistral 7B v0.1 is Mistral AI's first Large Language Model (LLM). A Large Language Model (LLM) is an artificial intelligence algorithm trained on massive amounts of data that is able to generate coherent text and perform various natural language processing tasks.  
-https://docs.mistral.ai/
-
-### LLaVA
-
-Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.  
-https://github.com/haotian-liu/LLaVA
-
-### FreeWilly2
-
-https://huggingface.co/stabilityai/StableBeluga2
-
-### LLaMA2
-
-The next generation of our open-source large language model  
-https://ai.meta.com/llama/
-
-### InternLM
-
-InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.  
-https://github.com/InternLM/InternLM
-
-### Gorilla
-
-Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke.  
-https://github.com/ShishirPatil/gorilla
-
-### Falcon LLM
-
-Technology Innovation Institute has open-sourced Falcon LLM for research and commercial utilization.  
-https://falconllm.tii.ae/
-
-### MPT-7B
-
-https://www.mosaicml.com/blog/mpt-7b
-
-### StableLM
-
-This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.  
-https://github.com/stability-AI/stableLM/
-
-### LLaMA
-
-LLaMA is a LLM from Meta.  
-https://github.com/facebookresearch/llama
-
-### PaLM-E
-
-https://palm-e.github.io/
-
-### Stanford Alpaca
-
-This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.  
-https://github.com/tatsu-lab/stanford_alpaca
-
-### ChatGLM-6B
-
-An Open Bilingual Dialogue Language Model  
-https://github.com/THUDM/ChatGLM-6B
-
-### OpenFlamingo
-
-https://github.com/mlfoundations/open_flamingo
-
-### Guanaco
-
-https://guanaco-model.github.io/
-
-### Alpaca-LoRA
-
-https://github.com/tloen/alpaca-lora
-
-### NVIDIA NeMo
-
-https://github.com/NVIDIA/NeMo
-
-### The RWKV Language Model
-
-https://github.com/BlinkDL/RWKV-LM
-
-### Dolly
-
-Databricks’ Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.  
-https://github.com/databrickslabs/dolly
 
 ## Libraries
 
