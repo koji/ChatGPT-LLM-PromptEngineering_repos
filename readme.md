@@ -230,6 +230,7 @@ https://github.com/trigaten/Learn_Prompting
 | eliza       | eliza is a simple, fast, and lightweight AI agent framework                                                                                                                         | https://github.com/elizaOS/eliza                |
 | camel       | CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework.                                                                                             | https://github.com/camel-ai/camel               |
 | AutoGPT     | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.                                                  | https://github.com/Significant-Gravitas/AutoGPT |
+| Anda     | 🤖 A framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.                                                | https://github.com/ldclabs/anda |
 
 ### AI Agents Stack
 
