@@ -181,39 +181,16 @@ https://github.com/dory111111/babyagi-streamlit
 
 ## Prompt Engineering
 
-### Prompt Engineering Guide
-
-https://github.com/dair-ai/Prompt-Engineering-Guide
-
-### ChatGPT DAN
-
-https://github.com/0xk1h0/ChatGPT_DAN
-
-### Awesome Prompt Engineering
-
-https://github.com/promptslab/Awesome-Prompt-Engineering
-
-### ChatGPT Prompts
-
-https://github.com/yokoffing/ChatGPT-Prompts
-
-### ChatGPT Prompts for Data Science!
-
-The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.  
-https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
-
-### Prompts
-
-https://prompts.chat/
-
-### ChatGPT & Bing AI Prompts
-
-https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts
-
-### Learn Prompting
-
-This website is a free, open-source guide on prompt engineering.  
-https://github.com/trigaten/Learn_Prompting
+| Name | Description | URL |
+|------|-------------|-----|
+| Prompt Engineering Guide | A comprehensive guide on prompt engineering | https://github.com/dair-ai/Prompt-Engineering-Guide |
+| ChatGPT DAN | Collection of DAN (Do Anything Now) prompts | https://github.com/0xk1h0/ChatGPT_DAN |
+| Awesome Prompt Engineering | Curated list of prompt engineering resources | https://github.com/promptslab/Awesome-Prompt-Engineering |
+| ChatGPT Prompts | General purpose ChatGPT prompts | https://github.com/yokoffing/ChatGPT-Prompts |
+| ChatGPT Prompts for Data Science | Specialized prompts for data science tasks | https://github.com/travistangvh/ChatGPT-Data-Science-Prompts |
+| Prompts | Collection of ChatGPT prompts | https://prompts.chat/ |
+| ChatGPT & Bing AI Prompts | Prompts for both ChatGPT and Bing AI | https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts |
+| Learn Prompting | Free, open-source guide on prompt engineering | https://github.com/trigaten/Learn_Prompting |
 
 ## Agents Framework
 
