@@ -181,16 +181,16 @@ https://github.com/dory111111/babyagi-streamlit
 
 ## Prompt Engineering
 
-| Name | Description | URL |
-|------|-------------|-----|
-| Prompt Engineering Guide | A comprehensive guide on prompt engineering | https://github.com/dair-ai/Prompt-Engineering-Guide |
-| ChatGPT DAN | Collection of DAN (Do Anything Now) prompts | https://github.com/0xk1h0/ChatGPT_DAN |
-| Awesome Prompt Engineering | Curated list of prompt engineering resources | https://github.com/promptslab/Awesome-Prompt-Engineering |
-| ChatGPT Prompts | General purpose ChatGPT prompts | https://github.com/yokoffing/ChatGPT-Prompts |
-| ChatGPT Prompts for Data Science | Specialized prompts for data science tasks | https://github.com/travistangvh/ChatGPT-Data-Science-Prompts |
-| Prompts | Collection of ChatGPT prompts | https://prompts.chat/ |
-| ChatGPT & Bing AI Prompts | Prompts for both ChatGPT and Bing AI | https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts |
-| Learn Prompting | Free, open-source guide on prompt engineering | https://github.com/trigaten/Learn_Prompting |
+| Name                             | Description                                   | URL                                                          |
+| -------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+| Prompt Engineering Guide         | A comprehensive guide on prompt engineering   | https://github.com/dair-ai/Prompt-Engineering-Guide          |
+| ChatGPT DAN                      | Collection of DAN (Do Anything Now) prompts   | https://github.com/0xk1h0/ChatGPT_DAN                        |
+| Awesome Prompt Engineering       | Curated list of prompt engineering resources  | https://github.com/promptslab/Awesome-Prompt-Engineering     |
+| ChatGPT Prompts                  | General purpose ChatGPT prompts               | https://github.com/yokoffing/ChatGPT-Prompts                 |
+| ChatGPT Prompts for Data Science | Specialized prompts for data science tasks    | https://github.com/travistangvh/ChatGPT-Data-Science-Prompts |
+| Prompts                          | Collection of ChatGPT prompts                 | https://prompts.chat/                                        |
+| ChatGPT & Bing AI Prompts        | Prompts for both ChatGPT and Bing AI          | https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts |
+| Learn Prompting                  | Free, open-source guide on prompt engineering | https://github.com/trigaten/Learn_Prompting                  |
 
 ## Agents Framework
 
@@ -207,11 +207,31 @@ https://github.com/dory111111/babyagi-streamlit
 | eliza       | eliza is a simple, fast, and lightweight AI agent framework                                                                                                                         | https://github.com/elizaOS/eliza                |
 | camel       | CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework.                                                                                             | https://github.com/camel-ai/camel               |
 | AutoGPT     | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.                                                  | https://github.com/Significant-Gravitas/AutoGPT |
-| Anda     | 🤖 A framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.                                                | https://github.com/ldclabs/anda |
+| Anda        | 🤖 A framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.                                        | https://github.com/ldclabs/anda                 |
 
 ### AI Agents Stack
 
 https://ai-agents-stack.netlify.app/
+
+## Closed LLM
+
+| **Name**                          | **Key Features/Notes**              | **Source**                                                                            |
+| --------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------- |
+| **OpenAI o3-mini**                | -                                   | [OpenAI](https://openai.com/index/openai-o3-mini/)                                    |
+| **OpenAI o1**                     | -                                   | [OpenAI](https://openai.com/o1/)                                                      |
+| **OpenAI o1-mini**                | Advancing cost-efficient reasoning. | [OpenAI](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) |
+| **GPT-4o**                        | -                                   | [OpenAI](https://openai.com/index/hello-gpt-4o/)                                      |
+| **GPT-4o mini**                   | -                                   | [OpenAI](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) |
+| **GPT-4**                         | -                                   | [OpenAI](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)               |
+| **GPT-3.5 Turbo**                 | -                                   | [OpenAI]()                                                                            |
+| **Claude 3.5 Sonnet**             | -                                   | [Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)                         |
+| **Claude 3.5 Haiku**              | -                                   | [Anthropic](https://www.anthropic.com/claude/haiku)                                   |
+| **Gemini 2.0 Flash**              | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-2.0-flash)        |
+| **Gemini 2.0 Flash-Lite Preview** | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-2.0-flash-lite)   |
+| **Gemini 1.5 Flash**              | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash)        |
+| **Gemini 1.5 Flash-8B**           | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash-8b)     |
+| **Gemini 1.5 Pro**                | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-pro)          |
+| **Gemini 1.0 Pro (deprecated)**   | -                                   | [Google](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.0-pro)          |
 
 ## LLM
 
